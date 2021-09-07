@@ -1,0 +1,15 @@
+{
+  "name": "bot_crawl_vieclam",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "puppeteer": "^10.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "VoDinhNghia",
+  "license": "ISC"
+}
